@@ -8,7 +8,7 @@
 title                       : JH on GH  # The title of the book. Will be placed in the left navbar.
 author                      : ADM  # The author of the book
 copyright                   : "2024-Current"  # Copyright year to be placed in the footer
-logo                        : "https://abikesa.github.io/zarathustra/python.png"  # A path to the book logo
+logo                        : "https://github.com/jhufena/jhufena.github.io/blob/main/png/hub_and_spoke.jpg?raw=true"  # A path to the book logo
 email                       : "theturingway@gmail.com"
 exclude_patterns            : ["LICENSE.md"]  # Patterns to skip when building the book. Can be glob-style (for example "*skip.ipynb")
 
