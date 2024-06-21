@@ -1,5 +1,5 @@
 (cl)=
-# Guide for Collaboration
+# Apollo
 
 ***This guide covers topics related to effective and inclusive collaboration.***
 

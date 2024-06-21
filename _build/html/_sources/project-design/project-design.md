@@ -1,5 +1,5 @@
 (pd)=
-# Guide for Project Design
+# Sing O Muse!
 
 ***This guide covers topics related to effective project planning and management.***
 
